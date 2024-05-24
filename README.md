@@ -50,5 +50,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Links
--Link to deployed app:
+-Link to deployed app on Render:
 -Link to Github URL: https://github.com/dialaobeid/My-Book-Engine
